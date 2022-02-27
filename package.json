@@ -1,0 +1,23 @@
+{
+  "name": "rtm-client",
+  "version": "1.0.0",
+  "description": "Zero external dependency Raptoreum CLI interface",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-fetch --no-warnings ."
+  },
+  "engines": {
+    "node": ">= 17.5"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Raptoreum",
+    "RTM"
+  ],
+  "author": "",
+  "license": "MIT"
+}
